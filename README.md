@@ -1,2 +1,5 @@
 # minecraft
-add-on
++ packs
+  + behavior packs
+  + resource packs
+
